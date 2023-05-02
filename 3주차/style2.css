@@ -1,0 +1,78 @@
+@font-face {
+  font-family: "Cafe24ClassicType-Regular";
+  src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2210-2@1.0/Cafe24ClassicType-Regular.woff2")
+    format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  font-family: "Cafe24ClassicType-Regular";
+}
+
+body {
+  background-color: #ffdfd3;
+  color: #4b4b4b;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #ff8b94;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 3em;
+  text-align: center;
+  margin: 0;
+  text-shadow: 3px 3px #f76d83;
+}
+
+section {
+  padding: 40px;
+  text-align: justify;
+}
+
+h2 {
+  font-size: 2em;
+  margin: 0 0 20px;
+  text-shadow: 2px 2px #f76d83;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+  text-shadow: 1px 1px #f76d83;
+}
+
+#intro {
+  background-color: #ffc3b3;
+}
+
+#qualities {
+  background-color: #ffa89f;
+}
+
+#cuteness {
+  background-color: #ff8b94;
+}
+
+footer {
+  background-color: #ffc3b3;
+  text-align: center;
+  padding: 20px;
+  font-size: 0.8em;
+  text-shadow: 1px 1px #f76d83;
+}
+
+.rabbit-pic {
+  width: 300px;
+  margin-bottom: 20px;
+}
